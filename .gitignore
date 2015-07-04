@@ -1,0 +1,9 @@
+*.dta
+*.csv
+*.xls
+*.xlsx
+*.Rd*
+*.Rh*
+*.Ra*
+*.log
+original/
